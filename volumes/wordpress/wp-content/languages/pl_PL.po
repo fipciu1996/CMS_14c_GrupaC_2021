@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the WordPress - 5.8.x - Development package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-10-08 10:35:11+0000\n"
+"PO-Revision-Date: 2021-10-27 07:24:46+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -937,7 +937,7 @@ msgstr "obrazki"
 #: wp-includes/blocks/gallery/block.json
 msgctxt "block description"
 msgid "Display multiple images in a rich gallery."
-msgstr "Wyświetlaj obrazki w galeriach."
+msgstr "Wyświetl wiele obrazków w bogatej galerii."
 
 #: wp-includes/blocks/freeform/block.json
 msgctxt "block description"
@@ -4371,7 +4371,7 @@ msgstr "[%s] Adres email został zmieniony"
 
 #: wp-includes/widgets/class-wp-widget-calendar.php:34
 msgid "A calendar of your site’s posts."
-msgstr "Kalendarz publikacji wpisów z twojej witryny."
+msgstr "Kalendarz wpisów"
 
 #: wp-includes/media.php:4492
 msgid "Edit gallery"
@@ -7600,7 +7600,7 @@ msgstr "Pokaż kontrolki"
 #: wp-includes/script-loader.php:1171 wp-admin/customize.php:257
 msgctxt "label for hide controls button without length constraints"
 msgid "Hide Controls"
-msgstr "Ukryj"
+msgstr "Ukryj kontrolki"
 
 #: wp-includes/media-template.php:396
 msgid "Document Preview"
@@ -7914,7 +7914,7 @@ msgstr "Ogranicz wyniki do elementów posiadających podany termin w taksonomii:
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2816
 msgid "Limit result set to all items except those of a particular parent ID."
-msgstr "Ogranicz wyniki do tych oprócz określonych ID nadrzędnych."
+msgstr "Ogranicz zestaw wyników do wszystkich elementów z wyjątkiem tych o określonym identyfikatorze nadrzędnym."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2808
 msgid "Limit result set to items with particular parent IDs."
@@ -9172,7 +9172,7 @@ msgstr "%1$s (%2$s)"
 #. translators: %s: Email address.
 #: wp-includes/user.php:251
 msgid "<strong>Error</strong>: The password you entered for the email address %s is incorrect."
-msgstr "<strong>BŁĄD</strong>: Dla adresu email %s podano nieprawidłowe hasło."
+msgstr "<strong>Błąd</strong>: Dla adresu e-mail %s podano nieprawidłowe hasło."
 
 #: wp-includes/user.php:216
 msgid "<strong>Error</strong>: The email field is empty."
@@ -9521,7 +9521,7 @@ msgstr "Aktualnie przeglądasz archiwum witryny %1$s z %2$s."
 #. translators: 1: Site link, 2: Archive date.
 #: wp-includes/theme-compat/sidebar.php:57
 msgid "You are currently browsing the %1$s blog archives for the day %2$s."
-msgstr "Aktualnie przeglądasz archiwa witryny %1$s z dnia %2$s."
+msgstr "Wyświetlono archiwum witryny %1$s z dnia %2$s."
 
 #. translators: %s: Admin email link.
 #: wp-includes/ms-load.php:111
@@ -9790,73 +9790,73 @@ msgstr "&#8222;%s&#8221;"
 #: wp-includes/class-wp-locale.php:188
 msgctxt "December abbreviation"
 msgid "Dec"
-msgstr "grudzień"
+msgstr "gru"
 
 #. translators: Three-letter abbreviation of the month.
 #: wp-includes/class-wp-locale.php:187
 msgctxt "November abbreviation"
 msgid "Nov"
-msgstr "listopad"
+msgstr "lis"
 
 #. translators: Three-letter abbreviation of the month.
 #: wp-includes/class-wp-locale.php:186
 msgctxt "October abbreviation"
 msgid "Oct"
-msgstr "październik"
+msgstr "paź"
 
 #. translators: Three-letter abbreviation of the month.
 #: wp-includes/class-wp-locale.php:185
 msgctxt "September abbreviation"
 msgid "Sep"
-msgstr "wrz."
+msgstr "wrz"
 
 #. translators: Three-letter abbreviation of the month.
 #: wp-includes/class-wp-locale.php:184
 msgctxt "August abbreviation"
 msgid "Aug"
-msgstr "sierpień"
+msgstr "sie"
 
 #. translators: Three-letter abbreviation of the month.
 #: wp-includes/class-wp-locale.php:183
 msgctxt "July abbreviation"
 msgid "Jul"
-msgstr "lipiec"
+msgstr "lip"
 
 #. translators: Three-letter abbreviation of the month.
 #: wp-includes/class-wp-locale.php:182
 msgctxt "June abbreviation"
 msgid "Jun"
-msgstr "czerwiec"
+msgstr "cze"
 
 #. translators: Three-letter abbreviation of the month.
 #: wp-includes/class-wp-locale.php:181
 msgctxt "May abbreviation"
 msgid "May"
-msgstr "Maj"
+msgstr "maj"
 
 #. translators: Three-letter abbreviation of the month.
 #: wp-includes/class-wp-locale.php:180
 msgctxt "April abbreviation"
 msgid "Apr"
-msgstr "kwiecień"
+msgstr "kw."
 
 #. translators: Three-letter abbreviation of the month.
 #: wp-includes/class-wp-locale.php:179
 msgctxt "March abbreviation"
 msgid "Mar"
-msgstr "marzec"
+msgstr "mar"
 
 #. translators: Three-letter abbreviation of the month.
 #: wp-includes/class-wp-locale.php:178
 msgctxt "February abbreviation"
 msgid "Feb"
-msgstr "lt."
+msgstr "lut"
 
 #. translators: Three-letter abbreviation of the month.
 #: wp-includes/class-wp-locale.php:177
 msgctxt "January abbreviation"
 msgid "Jan"
-msgstr "styczeń"
+msgstr "sty"
 
 #. translators: One-letter abbreviation of the weekday.
 #: wp-includes/class-wp-locale.php:137
@@ -11310,7 +11310,7 @@ msgstr "<strong>Błąd</strong>: Komentarz nie mógł zostać zapisany. Spróbuj
 #: wp-admin/includes/theme.php:566 wp-admin/includes/translation-install.php:67
 #: wp-admin/includes/update.php:142
 msgid "(WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.)"
-msgstr "(WordPress nie mógł stworzyć bezpiecznego połączenia z WordPress.org. Skontaktuj się z administratorem swojego serwera)."
+msgstr "(WordPress nie mógł stworzyć bezpiecznego połączenia z WordPress.org. Skontaktuj się z administratorem swojego serwera.)"
 
 #: wp-includes/class-wp-customize-widgets.php:1264
 msgid "Shift-click to edit this widget."
@@ -14105,7 +14105,7 @@ msgstr "Sprawdź folder &#8222;Niechciane&#8221; lub &#8222;Spam&#8221; swojego 
 
 #: wp-signup.php:844
 msgid "Wait a little longer. Sometimes delivery of email can be delayed by processes outside of our control."
-msgstr "Poczekaj jeszcze troszkę. Czasami dostarczenie emaila może zostać opóźnione przez procesy, na które nie mamy wpływu."
+msgstr "Proszę jeszcze poczekać. Czasami dostarczenie wiadomości e-mail jest opóźnione przez procesy, na które nie mamy wpływu."
 
 #: wp-signup.php:274
 msgid "We send your registration email to this address. (Double-check your email address before continuing.)"
@@ -15866,7 +15866,7 @@ msgstr "czerwiec"
 #: wp-includes/class-wp-locale.php:153 wp-includes/class-wp-locale.php:181
 #: wp-includes/js/dist/components.js:30580
 msgid "May"
-msgstr "Maj"
+msgstr "maj"
 
 #. translators: Month name.
 #. translators: Three-letter abbreviation of the month.

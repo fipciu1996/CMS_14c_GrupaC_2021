@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the WordPress - 5.8.x - Development - Administration package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-10-08 10:27:19+0000\n"
+"PO-Revision-Date: 2021-10-27 07:51:30+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -4686,7 +4686,7 @@ msgstr "Ciasteczka"
 #. translators: Default privacy policy text.
 #: wp-admin/includes/class-wp-privacy-policy-content.php:496
 msgid "An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment."
-msgstr "Zanonimizowany ciąg znaków stworzony na podstawie twojego adresu e-mail (tak zwany hash) może zostać przesłany do usługi Gravatar w celu sprawdzenia czy jej używasz. Polityka prywatności usługi Gravatar jest dostępna tutaj: https://automattic.com/privacy/. Po zatwierdzeniu komentarza twój obrazek profilowy jest widoczny publicznie w kontekście twojego komentarza."
+msgstr "Anonimizowany ciąg znaków utworzony z twojego adresu e-mail (zwany też hashem) może zostać przesłany do usługi Gravatar w celu sprawdzenia czy jest używany. Polityka prywatności usługi Gravatar jest dostępna pod adresem: https://automattic.com/privacy/. Po zatwierdzeniu komentarza twój obrazek profilowy jest widoczny publicznie w kontekście twojego komentarza."
 
 #. translators: Default privacy policy text.
 #: wp-admin/includes/class-wp-privacy-policy-content.php:494
@@ -5646,7 +5646,7 @@ msgstr "Personalizacja pozwala podejrzeć zmiany w witrynie przed ich opublikowa
 #: wp-admin/customize.php:259
 msgctxt "short (~12 characters) label for hide controls button"
 msgid "Hide Controls"
-msgstr "Ukryj"
+msgstr "Ukryj kontrolki"
 
 #: wp-admin/theme-install.php:70
 msgid "Expand Sidebar"
@@ -9823,7 +9823,7 @@ msgstr "Jeśli nie chcesz prowadzić już witryny %s, to można ją usunąć za 
 
 #: wp-admin/ms-delete-site.php:103
 msgid "Thank you. Please check your email for a link to confirm your action. Your site will not be deleted until this link is clicked."
-msgstr "Dziękujemy. Na twój adres e-mail została wysłana wiadomość z odnośnikiem, który pozwala potwierdzić chęć wykonania operacji. Twoja witryna nie zostanie usunięta, dopóki nie klikniesz tego odnośnika."
+msgstr "Dziękujemy. Na twój adres e-mail została wysłana wiadomość z odnośnikiem, który pozwala potwierdzić chęć wykonania operacji. Witryna nie zostanie usunięta, dopóki nie zostanie to potwierdzone."
 
 #: wp-admin/ms-delete-site.php:31
 msgid "Sorry, the link you clicked is stale. Please select another option."
@@ -12939,7 +12939,7 @@ msgstr "wpisy"
 
 #: wp-admin/options-reading.php:150
 msgid "Blog pages show at most"
-msgstr "Strony blogu wyświetlają maksymalnie"
+msgstr "Strony bloga wyświetlają maksymalnie"
 
 #: wp-admin/options-reading.php:141
 msgid "<strong>Warning:</strong> these pages should not be the same!"
@@ -14508,7 +14508,7 @@ msgstr "Podano nieprawidłowy adres URL."
 
 #: wp-admin/includes/file.php:871
 msgid "Specified file failed upload test."
-msgstr "Podany plik nie przeszedł próby wysyłki."
+msgstr "Podany plik nie przeszedł testu przesyłania."
 
 #: wp-admin/includes/file.php:860
 msgid "Invalid form submission."
