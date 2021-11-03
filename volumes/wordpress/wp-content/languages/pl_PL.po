@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the WordPress - 5.8.x - Development package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-10-27 07:24:46+0000\n"
+"PO-Revision-Date: 2021-11-02 07:44:47+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -8226,7 +8226,7 @@ msgstr "Ogranicz zbiór wyników do wybranych ID."
 #: wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:1035
 #: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1492
 msgid "Ensure result set excludes specific IDs."
-msgstr "Zapewnij, że zbiór wynikowy nie zawiera wybranych ID."
+msgstr "Upewnij się, że zestaw wyników wyklucza określone identyfikatory."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2734
 msgid "Limit response to posts published before a given ISO8601 compliant date."
@@ -8964,7 +8964,7 @@ msgstr "Układ responsywny"
 
 #: wp-includes/class-wp-theme.php:958
 msgid "Fluid Layout"
-msgstr "Płynny"
+msgstr "Układ płynny"
 
 #: wp-includes/class-wp-theme.php:957
 msgid "Fixed Layout"
@@ -13496,7 +13496,7 @@ msgstr "Witryna %1$s została aktywowana. Można zalogować się do niej przy po
 #. password URL.
 #: wp-activate.php:151
 msgid "Your account has been activated. You may now <a href=\"%1$s\">log in</a> to the site using your chosen username of &#8220;%2$s&#8221;. Please check your email inbox at %3$s for your password and login instructions. If you do not receive an email, please check your junk or spam folder. If you still do not receive an email within an hour, you can <a href=\"%4$s\">reset your password</a>."
-msgstr "Twoje konto zostało aktywowane. Możesz <a href=\"%1$s\">zalogować się</a> do swojej witryny przy pomocy wybranej nazwy użytkownika (&bdquo;%2$s&rdquo;). Proszę sprawdzić, czy na podany adres email – %3$s – przyszła już wiadomość z hasłem i instrukcją logowania. Jeśli nie ma żadnej wiadomości, proszę sprawdzić w folderze ze spamem. Jeśli wiadomość nie pojawi się w skrzynce w ciągu godziny, można poprosić o <a href=\"%4$s\">wygenerowanie nowego hasła</a>."
+msgstr "Twoje konto zostało aktywowane. Można się <a href=\"%1$s\">zalogować</a> do swojej witryny przy pomocy wybranej nazwy użytkownika (&bdquo;%2$s&rdquo;). Proszę sprawdzić, czy na podany adres e-mail – %3$s – dotarła wiadomość z hasłem i instrukcją logowania. Jeśli nie ma żadnej wiadomości, proszę sprawdzić w folderze ze spamem. Jeśli wiadomość nie pojawi się w skrzynce w ciągu godziny, można poprosić o <a href=\"%4$s\">wygenerowanie nowego hasła</a>."
 
 #. translators: %s: Database repair URL.
 #: wp-includes/functions.php:1784
@@ -14097,7 +14097,7 @@ msgstr "Kategorie"
 
 #: wp-signup.php:980
 msgid "Sorry, new registrations are not allowed at this time."
-msgstr "W tej chwili nie można się rejestrować."
+msgstr "Aktualnie nie można się rejestrować."
 
 #: wp-signup.php:845
 msgid "Check the junk or spam folder of your email client. Sometime emails wind up there by mistake."
@@ -15492,7 +15492,7 @@ msgstr "Wprowadzony adres URL wydaje się być zewnętrznym odnośnikiem. Czy ch
 
 #: wp-includes/class-wp-editor.php:1263
 msgid "The URL you entered seems to be an email address. Do you want to add the required mailto: prefix?"
-msgstr "Wprowadzony adres URL wydaje się być adresem email, czy chcesz dodać do niego wymagany prefiks mailto:?"
+msgstr "Wprowadzony adres URL wydaje się być adresem e-mail, czy dodać wymagany prefiks mailto:?"
 
 #: wp-includes/class-wp-editor.php:1336
 #: wp-includes/customize/class-wp-customize-background-position-control.php:75

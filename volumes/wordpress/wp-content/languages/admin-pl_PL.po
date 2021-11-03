@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the WordPress - 5.8.x - Development - Administration package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-10-27 07:51:30+0000\n"
+"PO-Revision-Date: 2021-11-02 07:28:56+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -4804,7 +4804,7 @@ msgstr "Tablica eksportera pod indeksem %s nie zawiera przyjaznej nazwy."
 
 #: wp-admin/erase-personal-data.php:13
 msgid "Sorry, you are not allowed to erase personal data on this site."
-msgstr "Przepraszamy, nie posiadasz uprawnień do wymazania danych osobistych z witryny."
+msgstr "Brak uprawnień do wymazania danych osobistych z witryny."
 
 #: wp-admin/export-personal-data.php:13
 msgid "Sorry, you are not allowed to export personal data on this site."
@@ -5057,7 +5057,7 @@ msgstr "Wyślij prośbę"
 
 #: wp-admin/erase-personal-data.php:116 wp-admin/export-personal-data.php:116
 msgid "Username or email address"
-msgstr "Nazwa użytkownika lub mail"
+msgstr "Nazwa użytkownika lub adres e-mail"
 
 #: wp-admin/export-personal-data.php:111
 msgid "Add Data Export Request"
