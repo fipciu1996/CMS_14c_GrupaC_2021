@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the WordPress - 5.8.x - Development - Administration package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-11-02 07:28:56+0000\n"
+"PO-Revision-Date: 2021-11-05 17:34:45+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -9334,7 +9334,7 @@ msgstr "Pozwól wyszukiwarkom indeksować witrynę"
 #: wp-admin/options-reading.php:43 wp-admin/options-reading.php:179
 #: wp-admin/options-reading.php:180
 msgid "Search engine visibility"
-msgstr "Widoczność dla wyszukiwarek"
+msgstr "Widoczność w wyszukiwarkach"
 
 #. translators: 1: WordPress version, 2: URL to About screen.
 #: wp-admin/includes/update-core.php:1570 wp-admin/update-core.php:894
@@ -13166,7 +13166,7 @@ msgstr "Wyświetlanie obrazków profilowych"
 
 #: wp-admin/options-discussion.php:218
 msgid "Avatars"
-msgstr "Obrazki profilowe"
+msgstr "Awatary"
 
 #: wp-admin/options-discussion.php:209
 msgid "When a comment contains any of these words in its content, author name, URL, email, IP address, or browser&#8217;s user agent string, it will be put in the Trash. One word or IP address per line. It will match inside words, so &#8220;press&#8221; will match &#8220;WordPress&#8221;."
